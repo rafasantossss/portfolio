@@ -9,7 +9,7 @@ Cada professor terá sua pasta, onde tera os projetos de suas aulas, e o meu res
 
 ## 🛠️
 
-Estou aprendendo Java Script e sei fazer um pouco de design
+Sei usar Java Script(intermediário) e sei fazer um pouco de design
 
 ## ✒️ Autores
 
