@@ -14,12 +14,3 @@ Sei usar Java Script(intermediário) e sei fazer um pouco de design
 ## ✒️ Autores
 
 Rafael Guimarães dos Santos
-
-
-## Deploy
-
-Para fazer o deploy desse projeto rode
-
-```bash
-  npm run deploy
-```
