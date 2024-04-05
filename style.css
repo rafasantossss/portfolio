@@ -1,11 +1,28 @@
 .body{
     font-family: monospace;
-    background-color: #1F2937;
-    color: #F5F5F5;
+    background-color: #0D1117;  
+    color: #A78BFA;
 }
+
 .a{
     text-decoration: none;
-    color: black
+    color: #A78BFA; 
+}
+.a2{
+    text-decoration: none;
+    color: #A78BFA;
+    position: absolute;
+    display: block; 
+}
+
+.a2 {
+    left: 30%;
+    top: 60%;
+}
+
+.a2:last-child {
+    left: 40%;
+    top: 60%;
 }
 .nav ul {
     display: flex;
@@ -17,43 +34,61 @@
 .nav li {
     margin: 10px;
 }
+
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #374151;
-    border-radius: 6px
+    background-color: #1e2733; 
+    border-radius: 6px;
 }
+
 .logo {
-    color: #F5F5F5;
+    color: #A78BFA; 
 }
 
 .nav a {
-    color: #F5F5F5;
+    color: #A78BFA;
 }
 
 .nav a:hover {
-    color: #D1D5DB;
+    color: #D1D5DB; 
 }
+
 .titulo{
     margin-left: 20px;
 }
-.container {
-    display: inline-block;
-    padding: 50px;
-    border-radius: 50%;
-    width: 150px;
-    border-radius: 50%;
+.tituloP{
     position: absolute;
-    top: 50px;
+    top: 37%;
+    left:32%;
+    
+}
+
+.container {
+    overflow: hidden;
+    background: #1e2733;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10%;
+    width: 150px;
+    border-radius: 10%;
+    position: absolute;
+    top: 32%;
     right: 0;
-    margin-right: 25px; 
+    margin-right: 27%; 
 }
 
 .container img {
-    border: 3px solid rgb(28, 28, 44);
+    border: 3px solid #5a4b86;
     display: block;
     width: 150px;
     height: auto;
-    border-radius: 50%;
+    border-radius: 10%;
+}
+
+.portfolio{
+    position: absolute;
+    top: 45%;
+    left:22%;
 }
