@@ -90,8 +90,7 @@
     }
     .tituloProjetos{
         position: absolute;
-        top: 37%;
-        left:45%; 
+        left:44%; 
     }
 
     .container {
@@ -124,8 +123,8 @@
     }
     .portfolio1{
         position: absolute;
-        top: 45%;
-        left: 36%;
+        top: 25%;
+        left: 22%;
         text-align: center;
     }
     .portfolio2{
@@ -203,4 +202,12 @@
     .fade-page.visible {
         opacity: 5;
     }
-        
+
+    .img1{
+        position: absolute;
+        top: -45%;
+        left: 128%;
+        width: 280px;
+        height: auto;
+        text-align: center;
+    }
